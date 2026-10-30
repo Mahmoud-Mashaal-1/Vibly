@@ -1,8 +1,13 @@
-# PetNest
-A one-stop platform for pet adoption, buying, veterinary care, and everything pets need.
+# Vibly – Place Discovery App
+Find your vibe. Find your place. 💜
+
 
 * 📝 **About The Project**
-  **PetNest** is a one-stop platform designed to make pet adoption, buying, and care easier and more accessible. The app connects pet lovers with pets looking for a loving home, while also providing access to trusted veterinarians and essential pet care services. Whether you’re looking to adopt a new companion, find the right pet, or take better care of your furry friend, **PetNest** brings everything you need into one friendly and convenient experience.
+  
+ Vibly is a place discovery application that helps users find the right places based on their mood, purpose, and personal preferences.
+
+Whether you're looking for a quiet café to study, a workspace to get things done, or a restaurant to hang out with friends, Vibly makes discovering the perfect place easier through smart filters, personalized recommendations, and experience-based reviews.
+
 
 * 👥 **Team Members**
 
