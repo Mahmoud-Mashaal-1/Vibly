@@ -23,4 +23,4 @@ Whether you're looking for a quiet café to study, a workspace to get things don
   
 * ** UX
 
- [ Vibly UX ](https://www.figma.com/board/G7irRF9j2q8ZdtcrwVPpJH/Vibly---UX?node-id=0-1)
+   [ Vibly UX ](https://www.figma.com/board/G7irRF9j2q8ZdtcrwVPpJH/Vibly---UX?node-id=0-1)
